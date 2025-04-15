@@ -1,6 +1,6 @@
-./old_name_files
-./old_name_files/*
-./old_name_files/*/*
-./renamed_files
-./renamed_files/*
-./renamed_files/*/*
+avoidance/*
+after_avoidance/*
+new_file/*
+old_name_files/*
+
+.DS_Store
